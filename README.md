@@ -9,7 +9,7 @@ I post a few public projects on here, but most of what I do I talk about on my [
 
 
 
-#### 📝 My Latest Posts (🤓 [Subscribe](https://joshmuller.ca/subscribe))
+#### 📝 My Latest Posts ( 🤓 [Subscribe](https://joshmuller.ca/subscribe))
 
 <!-- BLOG-POST-LIST:START -->
 - [Erring on the Side of Over-Communication](https://joshmuller.ca/writings/2023/err-on-the-side-of-overcommunication/) - May 15 2023
