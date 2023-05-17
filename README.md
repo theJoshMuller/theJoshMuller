@@ -11,23 +11,15 @@ I post a few public projects on here, but most of what I do I talk about on my [
 
 #### 📝 My Latest Posts (🤓 [Subscribe](https://joshmuller.ca/subscribe))
 
-<<<<<<< HEAD
-<!-- BLOG-POST-LIST:START -->- [Erring on the Side of Over-Communication](https://joshmuller.ca/writings/2023/err-on-the-side-of-overcommunication/) - May 15 2023
-=======
 <!-- BLOG-POST-LIST:START -->
 - [Erring on the Side of Over-Communication](https://joshmuller.ca/writings/2023/err-on-the-side-of-overcommunication/) - May 15 2023
->>>>>>> 6c5368a48c6a051f183cbf970a708efe3b033234
 - [[Share] He Gets Us: Enemies](https://joshmuller.ca/writings/2023/he-gets-us-enemies/) - May 09 2023
 - [On &quot;Impossible&quot;](https://joshmuller.ca/writings/2023/on-impossible/) - May 07 2023
 - [Choosing the Path of Learning](https://joshmuller.ca/writings/2023/choosing-the-path-of-learning/) - Apr 13 2023
 - [2 Months](https://joshmuller.ca/writings/2023/2-months/) - Apr 06 2023
 - [Choosing Generosity](https://joshmuller.ca/writings/2023/choosing-generosity/) - Mar 29 2023
-<<<<<<< HEAD
 - [Draw a Line](https://joshmuller.ca/writings/2023/draw-a-line/) - Mar 14 2023
 <!-- BLOG-POST-LIST:END -->
-=======
-- [Draw a Line](https://joshmuller.ca/writings/2023/draw-a-line/) - Mar 14 2023<!-- BLOG-POST-LIST:END -->
->>>>>>> 6c5368a48c6a051f183cbf970a708efe3b033234
 
 
 
