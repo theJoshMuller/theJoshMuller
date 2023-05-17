@@ -4,7 +4,7 @@ I'm Josh Müller!
 
 I love technology, language, writing, people, and creating new things.
 
-I post a few public projects on here, but most of what I do I talk about on my [personal website](https://joshmuller.ca)
+I post a few public projects on here, but most of what I do I talk about on my [personal website](https://joshmuller.ca).
 
 
 
