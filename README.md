@@ -26,4 +26,9 @@ Here are some ideas to get you started:
 #### 📝 My Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Erring on the Side of Over-Communication](https://joshmuller.ca/writings/2023/err-on-the-side-of-overcommunication/)
+- [[Share] He Gets Us: Enemies](https://joshmuller.ca/writings/2023/he-gets-us-enemies/)
+- [On &quot;Impossible&quot;](https://joshmuller.ca/writings/2023/on-impossible/)
+- [Choosing the Path of Learning](https://joshmuller.ca/writings/2023/choosing-the-path-of-learning/)
+- [2 Months](https://joshmuller.ca/writings/2023/2-months/)
 <!-- BLOG-POST-LIST:END -->
