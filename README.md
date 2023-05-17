@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋🏻
+
+I'm Josh Müller!
+
+I love technology, language, writing, people, and creating new things.
+
+I post a few public projects on here, but most of what I do I talk about on my [personal website](https://joshmuller.ca)
 
 <!--
 **theJoshMuller/theJoshMuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+#### 📝 My Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
