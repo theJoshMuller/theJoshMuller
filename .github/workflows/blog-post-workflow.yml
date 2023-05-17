@@ -1,7 +1,7 @@
 name: Latest Blog Posts
 on:
   schedule:
-    - cron: '18 * * * *' # runs at 9:15 and 18:15 daily
+    - cron: '* * * * *' # runs at 9:15 and 18:15 daily
   workflow_dispatch:
 permissions:
   contents: write # To write the generated contents to the readme
