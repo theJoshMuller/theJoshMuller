@@ -1,9 +1,10 @@
 name: Latest Blog Posts
 on:
   schedule:
-    - cron: '* * * * *' # runs at 9:15 and 18:15 daily
-    #- cron: '15 9,18 * * *' # runs at 9:15 and 18:15 daily
+    - cron: '18 * * * *' # runs at 9:15 and 18:15 daily
   workflow_dispatch:
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog-posts:
