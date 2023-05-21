@@ -12,13 +12,13 @@ I post a few public projects on here, but most of what I do I talk about on my [
 #### 📝 My Latest Posts ( 🤓 [Subscribe](https://joshmuller.ca/subscribe) )
 
 <!-- BLOG-POST-LIST:START -->
+- [I Want to Read Your Blog](https://joshmuller.ca/writings/2023/i-want-to-read-your-blog/) - May 20 2023
 - [How to Subscribe to Mailchimp Newsletters With RSS](https://joshmuller.ca/writings/2023/subscribe-to-mailchimp-newsletters-with-rss/) - May 18 2023
 - [Erring on the Side of Over-Communication](https://joshmuller.ca/writings/2023/err-on-the-side-of-overcommunication/) - May 15 2023
 - [[Share] He Gets Us: Enemies](https://joshmuller.ca/writings/2023/he-gets-us-enemies/) - May 09 2023
 - [On &quot;Impossible&quot;](https://joshmuller.ca/writings/2023/on-impossible/) - May 07 2023
 - [Choosing the Path of Learning](https://joshmuller.ca/writings/2023/choosing-the-path-of-learning/) - Apr 13 2023
-- [2 Months](https://joshmuller.ca/writings/2023/2-months/) - Apr 06 2023
-- [Choosing Generosity](https://joshmuller.ca/writings/2023/choosing-generosity/) - Mar 29 2023<!-- BLOG-POST-LIST:END -->
+- [2 Months](https://joshmuller.ca/writings/2023/2-months/) - Apr 06 2023<!-- BLOG-POST-LIST:END -->
 
 
 
