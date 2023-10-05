@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Feed to social media
-        uses: thejoshmuller/github-action-feed-to-social-media@v2
+        uses: thejoshmuller/github-action-feed-to-social-media
         with:
           feedUrl: 'https://joshmuller.ca/feed'
           newestItemStrategy: 'latestDate'
