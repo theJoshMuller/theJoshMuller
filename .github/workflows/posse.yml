@@ -1,19 +1,19 @@
-name: Feed to social media
+name: Post new articles to Socials
 on:
   workflow_dispatch:
   #schedule:
     #- cron: '0 */6 * * *' # runs at 9:15 and 18:15 daily
 
 jobs:
-  Feed2SocialMedia:
+  FeedToSocialMedia:
     runs-on: ubuntu-latest
     steps:
       - name: Feed to social media
-        uses: thejoshmuller/github-action-feed-to-social-media
+        uses: lwojcik/github-action-feed-to-social-media@v2
         with:
           feedUrl: 'https://joshmuller.ca/feed'
           newestItemStrategy: 'latestDate'
-          postFormat: "New post: {title}\n\n{link}"
+          postFormat: "📝 New post: {title}\n\n{link}"
           # Mastodon settings
           #mastodonEnable: true
           #mastodonPostFormat: "New post: {title}\n\n{link}"
@@ -26,8 +26,8 @@ jobs:
           #mastodonMetadataAccessToken: 'MASTODON_METADATA_ACCESS_TOKEN'
           #mastodonMetadataFieldIndex: 0
           # Twitter settings
-          twitterEnable: true
-          twitterPostFormat: "New post: {title}\n\n{link}"
+          twitterEnable: false
+          twitterPostFormat: "📝 New post: {title}\n\n{link}"
           twitterApiKey: ${{ secrets.TWITTER_API_KEY }}
           twitterApiKeySecret: ${{ secrets.TWITTER_API_SECRET }}
           twitterAccessToken: ${{ secrets.TWITTER_ACCESS_TOKEN }}
@@ -41,9 +41,9 @@ jobs:
           #slackPostFormat: "New post: {title}\n\n{link}"
           #slackWebhookUrl: 'DISCORD_WEBHOOK_URL'
           # Bluesky settings
-          blueskyEnable: false
-          blueskyPostFormat: "New post: {title}\n\n{link}"
+          blueskyEnable: true
+          blueskyPostFormat: "📝 New post: {title}\n\n{link}"
           blueskyHandle: 'user.bsky.social'
           blueskyAppPassword: ${{ secrets.BLUEKSKY_APP_PASSWORD }}
           blueskyOwnerHandle: 'thejoshmuller.bsky.social'
-          blueskyOwnerContact: 'socials+bluesky@joshmuller.ca'
+          blueskyOwnerContact: 'bluesky@joshmuller.ca'
