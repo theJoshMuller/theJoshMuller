@@ -41,7 +41,7 @@ jobs:
           #slackPostFormat: "New post: {title}\n\n{link}"
           #slackWebhookUrl: 'DISCORD_WEBHOOK_URL'
           # Bluesky settings
-          blueskyEnable: true
+          blueskyEnable: false
           blueskyPostFormat: "New post: {title}\n\n{link}"
           blueskyHandle: 'user.bsky.social'
           blueskyAppPassword: ${{ secrets.BLUEKSKY_APP_PASSWORD }}
