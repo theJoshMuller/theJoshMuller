@@ -43,7 +43,7 @@ jobs:
           # Bluesky settings
           blueskyEnable: true
           blueskyPostFormat: "📝 New post: {title}\n\n{link}"
-          blueskyHandle: 'user.bsky.social'
+          blueskyHandle: 'thejoshmuller.bsky.social'
           blueskyAppPassword: ${{ secrets.BLUEKSKY_APP_PASSWORD }}
           blueskyOwnerHandle: 'thejoshmuller.bsky.social'
-          blueskyOwnerContact: 'bluesky@joshmuller.ca'
+          blueskyOwnerContact: 'socials+bluesky@joshmuller.ca'
