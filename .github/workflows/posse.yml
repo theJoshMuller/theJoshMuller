@@ -26,7 +26,7 @@ jobs:
           #mastodonMetadataAccessToken: 'MASTODON_METADATA_ACCESS_TOKEN'
           #mastodonMetadataFieldIndex: 0
           # Twitter settings
-          twitterEnable: false
+          twitterEnable: true
           twitterPostFormat: "📝 New post: {title}\n\n{link}"
           twitterApiKey: ${{ secrets.TWITTER_API_KEY }}
           twitterApiKeySecret: ${{ secrets.TWITTER_API_SECRET }}
