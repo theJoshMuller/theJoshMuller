@@ -3,7 +3,6 @@ on:
   workflow_dispatch:
   #schedule:
     #- cron: '0 */6 * * *' # runs at 9:15 and 18:15 daily
-
 jobs:
   FeedToSocialMedia:
     runs-on: ubuntu-latest
@@ -14,35 +13,15 @@ jobs:
           feedUrl: 'https://joshmuller.ca/feed'
           newestItemStrategy: 'latestDate'
           postFormat: "📝 New post: {title}\n\n{link}"
-          # Mastodon settings
-          #mastodonEnable: true
-          #mastodonPostFormat: "New post: {title}\n\n{link}"
-          #mastodonInstance: 'https://mas.to'
-          #mastodonAccessToken: 'MASTODON_ACCESS_TOKEN'
-          #mastodonPostVisibility: 'unlisted'
-          # Mastodon metadata settings
-          #mastodonMetadataEnable: true
-          #mastodonMetadataInstance: 'https://mas.to'
-          #mastodonMetadataAccessToken: 'MASTODON_METADATA_ACCESS_TOKEN'
-          #mastodonMetadataFieldIndex: 0
-          # Twitter settings
           twitterEnable: true
           twitterPostFormat: "📝 New post: {title}\n\n{link}"
           twitterApiKey: ${{ secrets.TWITTER_API_KEY }}
           twitterApiKeySecret: ${{ secrets.TWITTER_API_SECRET }}
           twitterAccessToken: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           twitterAccessTokenSecret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-          # Discord settings
-          #discordEnable: true
-          #discordPostFormat: "New post: {title}\n\n{link}"
-          #discordWebhookUrl: 'DISCORD_WEBHOOK_URL'
-          # Slack settings
-          #slackEnable: true
-          #slackPostFormat: "New post: {title}\n\n{link}"
-          #slackWebhookUrl: 'DISCORD_WEBHOOK_URL'
-          # Bluesky settings
           blueskyEnable: true
           blueskyPostFormat: "📝 New post: {title}\n\n{link}"
+          blueskyService: 'bsky.social'
           blueskyHandle: 'thejoshmuller.bsky.social'
           blueskyAppPassword: ${{ secrets.BLUEKSKY_APP_PASSWORD }}
           blueskyOwnerHandle: 'thejoshmuller.bsky.social'
