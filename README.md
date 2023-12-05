@@ -12,13 +12,13 @@ I post a few public projects on here, but most of what I do I talk about on my [
 #### 📝 My Latest Posts ( 🤓 [Subscribe](https://joshmuller.ca/subscribe) )
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Ration Love](https://joshmuller.ca/writings/2023/dont-ration-love/) - Nov 27 2023
 - [Never Do the Same Task Thrice](https://joshmuller.ca/writings/2023/never-do-the-same-task-thrice/) - Nov 23 2023
 - [3 Neglected &quot;People&quot; You Should Blog For](https://joshmuller.ca/writings/2023/who-to-write-to/) - Nov 02 2023
 - [Using Whisper and LLMs to Create Perfect Subtitles](https://joshmuller.ca/writings/2023/use-llm-for-subtitles/) - Oct 23 2023
 - [Note to Future Self: On Exercise](https://joshmuller.ca/writings/2023/note-to-future-self-exercise/) - Oct 22 2023
 - [How I Quickly Found a Quote Buried in Dozens of Hours of Audio](https://joshmuller.ca/writings/2023/search-audio/) - Oct 15 2023
-- [On Triggers](https://joshmuller.ca/writings/2023/on-triggers/) - Oct 06 2023
-- [Sharpen Your Ax: On Mental Health](https://joshmuller.ca/writings/2023/sharpen-your-ax/) - Oct 04 2023<!-- BLOG-POST-LIST:END -->
+- [On Triggers](https://joshmuller.ca/writings/2023/on-triggers/) - Oct 06 2023<!-- BLOG-POST-LIST:END -->
 
 
 
