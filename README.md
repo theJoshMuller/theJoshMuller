@@ -12,13 +12,13 @@ I post a few public projects on here, but most of what I do I talk about on my [
 #### 📝 My Latest Posts ( 🤓 [Subscribe](https://joshmuller.ca/subscribe) )
 
 <!-- BLOG-POST-LIST:START -->
+- [How we Lowered our Article Localization Costs a Full Order-of-Magnitude With LLMs](https://joshmuller.ca/writings/2024/translation-workflow/) - Mar 05 2024
 - [How to Subscribe to Substack Newsletters with RSS](https://joshmuller.ca/writings/2024/follow-substack-with-rss/) - Feb 17 2024
 - [3 Unreleased Books that I Plan&lpar;/Hope&rpar; to Read in 2024](https://joshmuller.ca/writings/2024/3-books/) - Jan 07 2024
 - [&quot;What If...&quot;](https://joshmuller.ca/writings/2024/what-if/) - Jan 02 2024
 - [A Simple Trick to Make Logging Onto Public Wifi Easier](https://joshmuller.ca/writings/2023/public-wifi/) - Dec 30 2023
 - [Eulogy for Dad](https://joshmuller.ca/writings/2023/eulogy-for-dad/) - Dec 19 2023
-- [Don&#39;t Ration Love](https://joshmuller.ca/writings/2023/dont-ration-love/) - Nov 27 2023
-- [Never Do the Same Task Thrice](https://joshmuller.ca/writings/2023/never-do-the-same-task-thrice/) - Nov 23 2023<!-- BLOG-POST-LIST:END -->
+- [Don&#39;t Ration Love](https://joshmuller.ca/writings/2023/dont-ration-love/) - Nov 27 2023<!-- BLOG-POST-LIST:END -->
 
 
 
