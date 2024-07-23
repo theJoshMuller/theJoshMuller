@@ -17,7 +17,8 @@ I post a few public projects on here, but most of what I do I talk about on my [
 - [Action for Legacy](https://joshmuller.ca/writings/2024/act-4-legacy/) - May 22 2024
 - [Now With Recipes](https://joshmuller.ca/writings/2024/now-with-recipes/) - Apr 07 2024
 - [How we Lowered our Article Localization Costs a Full Order-of-Magnitude With LLMs](https://joshmuller.ca/writings/2024/translation-workflow/) - Mar 05 2024
-- [How to Subscribe to Substack Newsletters with RSS](https://joshmuller.ca/writings/2024/follow-substack-with-rss/) - Feb 17 2024<!-- BLOG-POST-LIST:END -->
+- [How to Subscribe to Substack Newsletters with RSS](https://joshmuller.ca/writings/2024/follow-substack-with-rss/) - Feb 17 2024
+- [3 Unreleased Books that I Plan&lpar;/Hope&rpar; to Read in 2024](https://joshmuller.ca/writings/2024/3-books/) - Jan 07 2024<!-- BLOG-POST-LIST:END -->
 
 
 
