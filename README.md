@@ -12,7 +12,6 @@ I post a few public projects on here, but most of what I do I talk about on my [
 #### 📝 My Latest Posts ( 🤓 [Subscribe](https://joshmuller.ca/subscribe) )
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Interlinear Audio Bible with Open Source NLP Models](https://joshmuller.ca/writings/2024/interlinear-audiobible/) - Jul 07 2024
 - [Pick Up That Trash](https://joshmuller.ca/writings/2024/pick-up-that-trash/) - Jul 05 2024
 - [Choose Dignity](https://joshmuller.ca/writings/2024/choose-dignity/) - May 25 2024
 - [Action for Legacy](https://joshmuller.ca/writings/2024/act-4-legacy/) - May 22 2024
