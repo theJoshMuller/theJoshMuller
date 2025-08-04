@@ -12,13 +12,13 @@ I post a few public projects on here, but most of what I do I talk about on my [
 #### 📝 My Latest Posts ( 🤓 [Subscribe](https://joshmuller.ca/subscribe) )
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re 3 Decisions Away](https://joshmuller.ca/writings/2025/3-decisions-away/) - Aug 04 2025
 - [Get Your Dopamine From Creating](https://joshmuller.ca/writings/2025/dopamine/) - May 13 2025
 - [How I Approach Prompt Engineering](https://joshmuller.ca/writings/2025/how-i-prompt-engineer/) - May 02 2025
 - [It Only Counts if You Ship It](https://joshmuller.ca/writings/2025/it-only-counts-if-you-ship-it/) - Apr 24 2025
 - [Two New Interlinear Audio Bible Resources](https://joshmuller.ca/writings/2025/more-interlinears/) - Mar 12 2025
 - [Innate Regenerative Resources](https://joshmuller.ca/writings/2025/innate-regenerative-resources/) - Mar 11 2025
-- [A Project Isn&#39;t Finished Until You&#39;ve Written About It](https://joshmuller.ca/writings/2025/finish-by-writing/) - Mar 10 2025
-- [How We Deployed Hundreds of No-Water Toilets to an Earthquake Zone &lpar;With Design Files&rpar;](https://joshmuller.ca/writings/2025/no-water-toilets/) - Mar 09 2025<!-- BLOG-POST-LIST:END -->
+- [A Project Isn&#39;t Finished Until You&#39;ve Written About It](https://joshmuller.ca/writings/2025/finish-by-writing/) - Mar 10 2025<!-- BLOG-POST-LIST:END -->
 
 
 
