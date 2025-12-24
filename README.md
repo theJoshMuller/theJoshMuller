@@ -12,13 +12,13 @@ I post a few public projects on here, but most of what I do I talk about on my [
 #### 📝 My Latest Posts ( 🤓 [Subscribe](https://joshmuller.ca/subscribe) )
 
 <!-- BLOG-POST-LIST:START -->
+- [Restoring Together](https://joshmuller.ca/writings/2025/restoring-together/) - Dec 24 2025
 - [How AI Turned Six Months of Work into 16 Minutes - Artifical Insights](https://joshmuller.ca/writings/2025/artificial-insights/) - Oct 22 2025
 - [Jesus Cares About Climate Change](https://joshmuller.ca/writings/2025/climate-change/) - Sep 14 2025
 - [You&#39;re 3 Decisions Away](https://joshmuller.ca/writings/2025/3-decisions-away/) - Aug 04 2025
 - [Get Your Dopamine From Creating](https://joshmuller.ca/writings/2025/dopamine/) - May 13 2025
 - [How I Approach Prompt Engineering](https://joshmuller.ca/writings/2025/how-i-prompt-engineer/) - May 02 2025
-- [It Only Counts if You Ship It](https://joshmuller.ca/writings/2025/it-only-counts-if-you-ship-it/) - Apr 24 2025
-- [Two New Interlinear Audio Bible Resources](https://joshmuller.ca/writings/2025/more-interlinears/) - Mar 12 2025<!-- BLOG-POST-LIST:END -->
+- [It Only Counts if You Ship It](https://joshmuller.ca/writings/2025/it-only-counts-if-you-ship-it/) - Apr 24 2025<!-- BLOG-POST-LIST:END -->
 
 
 
