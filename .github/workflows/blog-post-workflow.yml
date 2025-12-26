@@ -1,7 +1,7 @@
 name: Latest Blog Posts
 on:
   schedule:
-    - cron: '0 */6 * * *' # runs at 9:15 and 18:15 daily
+    - cron: '0 */6 * * *' # runs every 6 hours
   workflow_dispatch:
 permissions:
   contents: write # To write the generated contents to the readme
@@ -20,3 +20,8 @@ jobs:
           max_post_count: 7
           template: "$newline- [$title]($url) - $date "
           date_format: "mmm dd yyyy"
+          # FIX: Masquerade as a real browser to bypass Netlify bot protection
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          # FIX: Add retries for network stability
+          retry_count: "3"
+          retry_wait_time: "5"
